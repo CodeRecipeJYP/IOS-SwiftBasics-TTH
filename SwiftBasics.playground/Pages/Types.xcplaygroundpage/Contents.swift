@@ -49,5 +49,5 @@ var someString = ""
 // Type annotation , called Implicit type
 let bestPlayer : String = "Michael Jordan"
 let averagePointsPerGame: Double = 30.1
-let yaerOfRetirement: Int = 2003
+let yearOfRetirement: Int = 2003
 let hallOfFame: Bool = true
